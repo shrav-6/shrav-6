@@ -6,6 +6,9 @@ I am an aspiring data scientist, keen to find valuable patterns from datasets. I
 - 📫 How to reach me: shravanthiofficial@gmail.com 
 - ⚡ Fun fact: Enjoy the process. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrav-6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Skills
 🎯 Technical: Statistics, Probability, Machine Learning, Data Scraping, Data Visualization, Data Analytics<br/>
 🎯 Languages: C, C++, Java, Python, HTML, SQL<br/>
@@ -14,14 +17,9 @@ I am an aspiring data scientist, keen to find valuable patterns from datasets. I
 
 
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrav-6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrav6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shrav.6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrav_6)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrav-6)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrav-6&show_icons=true&theme=synthwave)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrav-6&show_icons=true&theme=tokyonight&count_private=true&custom_title=Shrav&#39;s%20Github%20Stats)       ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shrav-6&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shrav-6)  
-
-
+##
