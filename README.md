@@ -19,7 +19,7 @@ I am an aspiring data scientist, keen to find valuable patterns from datasets. I
 
 ## My Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrav-6&show_icons=true&theme=tokyonight&count_private=true&custom_title=Shrav&#39;s%20Github%20Stats)       ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shrav-6&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrav-6&show_icons=true&theme=tokyonight&count_private=true&custom_title=Shrav&#39;s%20Github%20Stats)       
 
 
 ## Connect with me
