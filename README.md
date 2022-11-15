@@ -1,5 +1,4 @@
 # E Shravanthi
-<b>Data Science Enthusiast</b><br/>
 I am an aspiring data scientist, keen to find valuable patterns from datasets. I am curious to learn and implement concepts of Data Analytics, Machine Learning, and Neural Networks to solve real world problems.
 
 
