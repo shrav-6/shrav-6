@@ -1,12 +1,9 @@
 # E Shravanthi
-I am an aspiring data scientist, keen to find valuable patterns from datasets. I am curious to learn and implement concepts of Data Analytics, Machine Learning, and Neural Networks to solve real world problems.
-
-
 
 ## Skills
 🎯 <b>Technical</b>: Statistics, Probability, Machine Learning, Data Scraping, Data Visualization, Data Analytics<br/>
 🎯 <b>Languages:</b> C, C++, Java, Python, HTML, CSS, SQL, PHP, Javascript<br/>
-🎯 <b>Libraries & Frameworks:</b> scikit-learn, matplotlib, numpy, pandas, pytorch, keras, beautifulsoup, django web framework<br/>
+🎯 <b>Libraries & Frameworks:</b> scikit-learn, matplotlib, numpy, pandas, pytorch, tensorflow, keras, beautifulsoup, django web framework<br/>
 🎯 <b>Database/Server:</b> MySQL, SQL+, Firebase Database<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrav-6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
