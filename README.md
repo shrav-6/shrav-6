@@ -1,4 +1,4 @@
-# E Shravanthi
+# Shravanthi
 
 ## Skills
 🎯 <b>Technical</b>: Statistics, Probability, Machine Learning, Data Scraping, Data Visualization, Data Analytics<br/>
