@@ -1,20 +1,15 @@
-# Shravanthi
+# Shravanthi Elavarthi
 
 ## Skills
-🎯 <b>Technical</b>: Statistics, Probability, Machine Learning, Data Scraping, Data Visualization, Data Analytics<br/>
-🎯 <b>Languages:</b> C, C++, Java, Python, HTML, CSS, SQL, PHP, Javascript<br/>
-🎯 <b>Libraries & Frameworks:</b> scikit-learn, matplotlib, numpy, pandas, pytorch, tensorflow, keras, beautifulsoup, django web framework<br/>
-🎯 <b>Database/Server:</b> MySQL, SQL+, Firebase Database<br/>
+🎯 <b>Technical</b>:  Cloud computing (AWS, GCP), Data Preprocessing, Data Visualization, Machine Learning, Data Analytics, Statistics<br/>
+🎯 <b>Languages:</b> C++, Java, Python, SQL, Git, HTML, CSS, JavaScript, MySQL, NoSQL, React, Nodejs<br/>
+🎯 <b>Libraries & Frameworks:</b> sci-kit-learn, matplotlib, numpy, pandas, PyTorch, Keras, TensorFlow, beautiful soup, Flask, Django<br/>
+🎯 <b>Other Software/tools:</b>  AWS Cloud, Firebase, Firestore, Microsoft Office Suite, Git, Github, Gitlab, Google docs, Google sheets<br/>
+🎯 <b>Soft skills:</b> Attention to detail, Self-motivated, Ability to learn quickly, Critical thinking ability, Team oriented, Strong communication and people skills, problem-solving mindset.<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrav-6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  
+## Let's connect
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrav-6&show_icons=true&theme=tokyonight&count_private=true&custom_title=Shrav&#39;s%20Github%20Stats&hide=prs,issues)       
-
-
-## Connect with me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shrav-6)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrav6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shrav.6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shrav_6) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shrav6/)  
